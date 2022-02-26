@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to the Earl of Warwick, from the captain, officers, and company of His Majesties ship called the Lyon, declaring their resolution for the service of the Parliament, with the Earl of Warwicks answer thereunto. 7 Julii, 1648. Ordered by the Commons assembled in Parliameut [sic], that this letter from Sir George Ayscue, and the Lord Admirals answer to it, be forthwith printed. H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75841</idno>
+            <idno type="STC">Wing A4315AB</idno>
+            <idno type="STC">Thomason E451_31</idno>
+            <idno type="STC">ESTC R205281</idno>
+            <idno type="EEBO-CITATION">99864697</idno>
+            <idno type="PROQUEST">99864697</idno>
+            <idno type="VID">116929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116929)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to the Earl of Warwick, from the captain, officers, and company of His Majesties ship called the Lyon, declaring their resolution for the service of the Parliament, with the Earl of Warwicks answer thereunto. 7 Julii, 1648. Ordered by the Commons assembled in Parliameut [sic], that this letter from Sir George Ayscue, and the Lord Admirals answer to it, be forthwith printed. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Ayscue, George.</author>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 8. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A3v: George Ayscue Capt. [and 12 others].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116929:1" rendition="simple:additions"/>
+            <p>A LETTER Sent to the Earl of <hi>WARWICK,</hi> From the Captain, Officers, and Company of His Majeſties Ship called the LYON, Declaring their Reſolution for the ſervice OF THE PARLIAMENT, WITH The Earl of <hi>WARWICKS</hi> Anſwer thereunto.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>7 Julii, 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Letter from Sir <hi>George Ayſcue,</hi> and the Lord Admirals Anſwer to it, be forthwith Printed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons, <hi>July</hi> 8. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116929:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:116929:2"/>
+            <head>To the Right Honorable, <hi>Robert</hi> Earl of VVarwick, Lord High Admiral of England:</head>
+            <opener>
+               <salute>May it pleaſe your Honor,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to your Lord<g ref="char:EOLhyphen"/>ſhips command, I am re<g ref="char:EOLhyphen"/>turned from Milford with the Lyon to Portſmouth, where I ſhall wait your farther pleaſure; and underſtanding there the pre<g ref="char:EOLhyphen"/>ſent condition of Affairs, and how that many Sea-men having been ſeduced by the ſubtilty of thoſe that have been always profeſſed
+<pb n="4" facs="tcp:116929:3"/>Enemies to the Parliament and Kingdoms happineſs: VVhich being rightly underſtood by the Officers of this Ship, as alſo by the common men, they have there<g ref="char:EOLhyphen"/>upon unanimouſly joyned with me, Humbly to beg leave of your Lordſhip, to make this our profeſ<g ref="char:EOLhyphen"/>ſion to your Honor, as being our hearty and zealous Reſolutions, That as it is a great grief to us, that any of our calling, who hath been famous formerly for their faithful Service to the Parliament, ſhould now be cheated into diſobedience, of which we hear that divers of them do already repent: And we doubt not of your Lordſhips fa<g ref="char:EOLhyphen"/>vor
+<pb n="5" facs="tcp:116929:3"/>to ſuch poor miſled people: So we ſhall deſire your Lordſhip, That wee vvho do abhor the thoughts of any unfaithfulneſs to the Service of the Parliament, and who are ready to the laſt drop of our blood, according to the Cove<g ref="char:EOLhyphen"/>nant which we have taken, to be obedient and ſerviceable to their commands, In giving all poſsible aſsiſtance towards the reducing of all Revolters and Refractory per<g ref="char:EOLhyphen"/>ſons to their due obedience: So we hope that the ſcandal and foulneſs of this Revolt in others, ſhall not be on us a ſtain in the Parliament and your Lordſhips opinions: which if your Lordſhip pleaſe to
+<pb n="6" facs="tcp:116929:4"/>teſtifie to us your aſſurance of, you vvill give us a great incourage<g ref="char:EOLhyphen"/>ment, and lay a perpetual oblige<g ref="char:EOLhyphen"/>ment on us, vvhoſe Names are hereunder written, and who aſſu<g ref="char:EOLhyphen"/>redly are the Parliaments and your Lordſhips moſt humble faithful Servants,</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>George Ayſcue</hi> Capt.</item>
+                     <item>
+                        <hi>Tho: Penroſe</hi> Lieut.</item>
+                     <item>
+                        <hi>Michael Iles</hi> Miniſter</item>
+                     <item>
+                        <hi>Iohn Rocheſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Io: Lathbury</hi> Gunner</item>
+                     <item>
+                        <hi>Iohn Pack</hi> Carpent.</item>
+                     <item>
+                        <hi>James Johnſon</hi> Boatſ.</item>
+                     <item>
+                        <hi>Wil: Hinney</hi> Purſer.</item>
+                     <item>
+                        <hi>Jo: Haſelock</hi> chirurg.</item>
+                     <item>
+                        <hi>George Evered</hi> Ma<g ref="char:EOLhyphen"/>ſters mate.</item>
+                     <item>
+                        <hi>Richard-Inon</hi> Maſters mate.</item>
+                     <item>
+                        <hi>George Fen</hi> corporal.</item>
+                     <item>
+                        <hi>Vincen Cocket</hi> Cook.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:116929:4"/>
+            <head>To my very loving Friends, <hi>The Captain, and Officers and Company of His Majeſties Ship,</hi> The Lyon.</head>
+            <p>After my hearty commendations,</p>
+            <p>I Received your Letter, and thereby very great ſatisfaction, touching the integrity of your affections to the Parliaments Service, having made ſo eminent a Declaration thereof, as a<g ref="char:EOLhyphen"/>mounts to the honor of your perſons and profeſsions: I am very glad that you have conceived ſo true an apprehenſion of the nature and riſe of the revolt of thoſe Ships that have deſerted their duty, it proceeding from falſe and lying ſug<g ref="char:EOLhyphen"/>geſtions, and tending as to the diſhonor of the Nation, ſo to the juſt ſhame and ruine of thoſe who perſiſt in ſuch a diſo<g ref="char:EOLhyphen"/>bedience: That you do abhor the act, I am fully ſatisfied from your own ex<g ref="char:EOLhyphen"/>preſsions; which as they hold forth much reſpect to the Parliaments com<g ref="char:EOLhyphen"/>mands,
+<pb n="8" facs="tcp:116929:5"/>ſo you may be confident, they will be returned in all ways of incou<g ref="char:EOLhyphen"/>ragement; and believe it, you'l finde by experience, that the faithful adherence to to the Parliament, will appear the great<g ref="char:EOLhyphen"/>eſt advantage to the happy ſettlement of the differences betwixt the King and the Kingdom, and that thoſe who with<g ref="char:EOLhyphen"/>draw from their ſervice, are the greateſt obſtructers of that Peace which they pretend too: For my own particular, you ſhall never want that reſpect from me, which may approve me a faithful ſervant to my truſt, and to your ſelves;</p>
+            <closer>
+               <dateline>London, <date>30 June, 1648.</date>
+               </dateline>
+               <signed>A very loving friend, <hi>WARVVICK.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
